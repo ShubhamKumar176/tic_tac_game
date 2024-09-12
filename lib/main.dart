@@ -6,7 +6,7 @@ void main() {
 
 class TicTacToeApp extends StatelessWidget {
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context) { 
     return MaterialApp(
       title: 'Tic Tac Toe',
       home: TicTacToeScreen(),
