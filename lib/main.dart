@@ -2,14 +2,14 @@ import 'package:flutter/material.dart';
 
 void main() {
   runApp(TicTacToeApp());
-}
+} 
 
 class TicTacToeApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) { 
     return MaterialApp(
       title: 'Tic Tac Toe',
-      home: TicTacToeScreen(),
+      home: TicTacToeScreen(), 
     );
   }
 }
