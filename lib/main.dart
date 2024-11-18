@@ -19,7 +19,7 @@ class TicTacToeScreen extends StatefulWidget {
   _TicTacToeScreenState createState() => _TicTacToeScreenState();
 }
 
-class _TicTacToeScreenState extends State<TicTacToeScreen> {
+class _TicTacToeScreenState extends State<TicTacToeScreen> { 
   List<List<String?>> board = [];
   bool isXTurn = true;
 
