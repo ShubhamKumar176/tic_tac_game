@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 void main() {
   runApp(TicTacToeApp());
-} 
+}  
 
 class TicTacToeApp extends StatelessWidget {
   @override
